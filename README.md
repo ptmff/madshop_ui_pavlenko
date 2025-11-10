@@ -1,4 +1,4 @@
-![демонстрация](./demonstration.gif)
+![демонстрация](./89CDB147-10F1-4471-A745-91C2AAA99E32.mov)
 <img width="450" height="1025" alt="image" src="https://github.com/user-attachments/assets/ed1f3872-e502-4b36-905e-6c6df1178f67" />
 <img width="450" height="1025" alt="image" src="https://github.com/user-attachments/assets/7526a999-1449-41bc-a70e-6cbf9ef800cc" />
 <img width="485" height="1105" alt="image" src="https://github.com/user-attachments/assets/7e0aa556-9a9a-4c8f-959c-2f585921b569" />
